@@ -1,8 +1,8 @@
 <template>
-  <p class="px-4">hi</p>
+  <Scanner class="m-2"></Scanner>
 </template>
-<script setup>
-
+<script setup lang="ts">
+import Scanner from '../components/Scanner.vue'
 </script>
 
 <style></style>
